@@ -1,2 +1,2 @@
 # Data_Visualization
-Data Visualization journey using mostly Python (pandas + matplotlib). Includes notebooks, examples and various documentation.
+This repository includes my data visualization studies on jupyter notebook.
